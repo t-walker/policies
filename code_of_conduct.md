@@ -75,7 +75,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
+Tyler Walker [twalkerweb@gmail.com](mailto:twalkerweb@gmail.com)
+Patrick Richardson [setfloat@gmail.com](mailto:setfloat@gmail.com)
 
 ## 11. License and attribution
 
